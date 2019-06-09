@@ -35,8 +35,6 @@ class MainActivity : AppCompatActivity() {
     var gmin: Int = -1
     var gday: String = "null"
 
-    private var shortAnimationDuration: Int = 0
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         requestWindowFeature(Window.FEATURE_NO_TITLE)
