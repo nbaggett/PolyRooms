@@ -36,6 +36,9 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-extensions:2.0.0'
 
     implementation 'com.google.code.gson:gson:2.6.2'
+    // Mapbox
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:8.0.0'
+
     testImplementation 'junit:junit:4.12'
 
 
